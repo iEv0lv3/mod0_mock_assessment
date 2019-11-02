@@ -1,0 +1,29 @@
+Class: Child
+
+Attributes:
+
+@first_name (string)
+@weight_lbs (integer)
+@height_in (integer)
+@birthdate (string)
+@bedtime (string)
+@school (string)
+@skier (boolean)
+@city_of_residence (string)
+@favorite_foods (array)
+@friends (hash ["name" => "city"])
+
+Methods:
+
+introduce_self (uses :first_name string)
+annual_growth (uses and modifies :weight_lbs and :height_in integers)
+celebrate_birthday (uses :birthdate string)
+go_to_sleep (uses :bedtime string and current time)
+attend_school (uses :school and :birthdate strings)
+change_homes (modifies :city_of_residence string)
+go_skiing (uses :skier boolean)
+participate_in_activities (uses :city_of_residence and :birthdate strings)
+eat_dinner (checks :favorite_foods array)
+add_new_favorite_food (modifies :favorite_foods array)
+play_with_friends (uses :friends hash)
+add_new_friend (modifies :friends hash)
