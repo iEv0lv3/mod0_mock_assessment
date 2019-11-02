@@ -1,0 +1,127 @@
+Doing Laundry
+
+1 Bring Clothes to Laundry Area
+  1.1 Gather clothes in laundry baskets
+    1.1.1 Find laundry baskets
+      1.1.1.1 Go to bedroom
+      1.1.1.2 Look in closet
+      1.1.1.3 Grab available laundry baskets
+    1.1.2 Collect dirty clothes
+      1.1.2.1 Check master bedroom hamper
+        1.1.2.1.1 Go to master bedroom closet
+        1.1.2.1.2 Open hamper
+        1.1.2.1.3 Transfer dirty clothes from hamper to laundry baskets
+        1.1.2.1.4 Pickup laundry baskets
+      1.1.3.1 Check Magnus's room hamper
+        1.1.3.1.1 Go to Magnus's bedroom closet
+        1.1.3.1.2 Open hamper
+        1.1.3.1.3 Transfer dirty clothes from hamper to laundry baskets
+        1.1.3.1.4 Pickup laundry baskets
+  1.2 Walk to laundry room with laundry baskets
+    1.2.1 Put laundry baskets down
+2 Separate Colors & Whites
+  2.1 Look at each garment in laundry baskets
+    2.1.1 Pick a garment up from laundry baskets
+    2.1.2 Look at garment
+    2.1.3 Is garment white or color?
+  2.2 Put garment in matching pile
+    2.2.1 If garment is color drop it on the color pile
+    2.2.2 If garment is white drop it on the white pile
+3 Wash Clothes
+  3.1 Put clothes in washing machine
+    3.1.1 Confirm there is no wash cycle running
+      3.1.1.1 Look at washing machine indicator lights
+      3.1.1.2 Look through washing machine window
+    3.1.2 Open washing machine door
+      3.1.2.1 Pull handle
+    3.1.3 Confirm the washing machine is empty
+      3.1.3.1 Look in washing machine for clothes
+        3.1.3.1.1 If there are clothes in the washing machine confirm they've been washed
+          3.1.3.1.1.1 Touch garments in washing machine
+          3.1.3.1.1.2 If clothes are wet grab all garments
+          3.1.3.1.1.3 Put all garments in an empty laundry basket
+        3.1.3.1.2 If clothes are dry wash clothes
+          3.1.3.1.2.1 Close door
+          3.1.3.1.2.2 Wash clothes
+    3.1.4 Look at remaining sorted clothes pile(s)
+    3.1.5 Select pile to wash
+    3.1.6 Pickup all garments in the pile
+  3.2 Add laundry detergent
+    3.2.1 Open laundry room cabinet
+    3.2.2 Grab laundry detergent from the shelf
+    3.2.3 Open cap
+    3.2.4 Pour detergent in cap until full
+    3.2.5 Open detergent compartment on washing machine
+    3.2.6 Pour detergent into compartment
+    3.2.7 Close detergent compartment
+    3.2.8 Put detergent back on laundry room shelf
+    3.2.9 Close laundry room cabinet
+  3.3 Select wash cycle settings
+    3.3.1 Look at washing machine cycle markings
+    3.3.2 Choose desired settings
+    3.3.3 Turn knob to selected settings
+  3.4 Start washing machine
+    3.4.1 Press the start button
+4 Dry Clothes
+  4.1 Confirm there is no dry cycle running
+    4.1.1 Look at dryer indicator lights
+    4.1.2 Look through dryer window
+  4.2 Open dryer door
+  4.3 Confirm the dryer is empty
+    4.3.1 Look in dryer for clothes
+      4.3.1.1 If there are clothes in the dryer confirm they are dry
+        4.3.1.1.1 Touch garments in dryer
+        4.3.1.1.2 If clothes are dry grab all garments
+        4.3.1.1.3 Put all garments in an empty laundry basket
+        4.3.1.1.4 If clothes are wet than dry clothes
+          4.3.1.1.4.1 Close the dryer door
+          4.3.1.1.4.2 Look at dryer settings markings and select cycle
+          4.3.1.1.4.3 Turn knob to selected cycle
+          4.3.1.1.4.4 Press start button
+  4.4 Put wet clothes in dryer
+    4.4.1 Check if any baskets in laundry room have wet clothes
+      4.4.1.1 If laundry baskets contain wet clothes grab all garments
+      4.4.1.2 Transfer all garments into dryer
+    4.4.2 Confirm there is no wash cycle running
+      4.4.2.1 Look at washing machine indicator lights
+      4.4.2.2 Look through washing machine window
+    4.4.3 Open washing machine door
+      4.4.3.1 Pull handle
+    4.4.4 Grab all garments out of washing machine
+    4.4.5 Transfer all garments to the dryer
+    4.4.6 Close the dryer door
+  4.5 Start the dryer
+    4.5.1 Look at the dryer settings markings and select a cycle
+    4.5.2 Turn the knob to selected cycle
+    4.5.3 Press start button
+  4.6 Put dry clothes in laundry baskets
+    4.6.1. Confirm clothes have completed drying
+      4.6.1.1 Touch garments in dryer
+      4.6.1.2 If clothes are dry grab all garments
+      4.6.1.3 Transfer all garments into an empty laundry basket
+      4.6.1.4 If clothes are wet run a dry cycle
+        4.6.1.4.1 Close the dryer door
+        4.6.1.4.2 Look at dryer settings markings and select cycle
+        4.6.1.4.3 Turn knob to selected cycle
+        4.6.1.4.4 Press start button
+5 Fold Clothes
+  5.1 Look in laundry room for dry clothes
+    5.1.1 Pick up laundry basket of dry clean clothes
+  5.2 Bring laundry basket of dry clean clothes to folding area
+    5.2.1 Put laundry basket down
+  5.3 Fold all clean garments in laundry basket
+    5.3.1 Select garment from laundry basket
+    5.3.2 Fold garment neatly in thirds
+    5.3.3 Place garment into folded pile
+  5.4 Transfer folded pile into laundry basket
+6 Put Away Clothes
+  6.1 Look in folding area and bedroom closets for clean folded clothes
+    6.1.1 Pick up laundry basket of clean folded clothes
+    6.1.2 Look at garments in laundry basket of clean folded clothes
+    6.1.3 Select master bedroom, Magnus's room, or both
+  6.2 Bring laundry basket of clean folded clothes to selected bedroom closet
+    6.2.1 Put laundry basket down
+  6.3 Put all folded garments away
+    6.3.1 Grab the top garment from a folded pile
+    6.3.2 Determine where garment is to be stored
+    6.3.3 Put folded garment in selected location
