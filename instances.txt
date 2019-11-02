@@ -1,0 +1,60 @@
+Object: Magnus
+
+Attributes:
+
+@first_name = "Magnus"
+@weight_lbs = 30
+@height_in = 41
+@birthdate = "4.08.2017"
+@bedtime = "8pm"
+@school = "BJS"
+@skier = true
+@city_of_residence = "Boulder"
+@favorite_foods = ["avocado", "rice and beans", "pancakes", "dates", "cashews"]
+@friends = {"Evie" => "Boulder", "Peter" => "Boulder", "Oliver" => "Boulder", "Anna" => "California"}
+
+Methods:
+
+introduce_self: puts "Hello, I'm #{@first_name}"
+annual_growth: 30 - 23 = 7 and 41 - 36 = 5
+celebrate_birthday: If @birthdate == Date.today
+go_to_sleep: If @bedtime == Time.now
+attend_school: Go to school @school
+change_homes: @city_of_residence = "Denver"
+go_skiing: If @skier == true
+participate_in_activities: Use @city_of_residence for children age (Date.today - @birthdate) to find activities
+eat_dinner: Pick food from @favorite_foods
+add_new_favorite_food: @favorite_foods << "chips"
+play_with_friends: Call local @friends["Friend Name"]
+add_new_friend: @friends["Aiden"] = "Boulder"
+
+
+Object: Gavin
+
+Attributes:
+
+@first_name = "Gavin"
+@weight_lbs = 90
+@height_in = 62
+@birthdate = "7.18.2009"
+@bedtime = "9pm"
+@school = "South Portland"
+@skier = false
+@city_of_residence = "South Portland"
+@favorite_foods = ["mac & cheese", "pizza", "cheeseburgers", "pasta", "pho"]
+@friends = {"Braden" => "South Portland", "Jaxon" => "South Portland", "Magnus" => "Boulder", "Kate" => "Portland"}
+
+Methods:
+
+introduce_self: puts "Hello, I'm #{@first_name}"
+annual_growth: 90 - 80 = 10 and 62 - 59 = 3
+celebrate_birthday: If @birthdate == Date.today
+go_to_sleep: If @bedtime == Time.now
+attend_school: Go to school @school
+change_homes: @city_of_residence = "Portland"
+go_skiing: If @skier == true
+participate_in_activities: Use @city_of_residence for children age (Date.today - @birthdate) to find activities
+eat_dinner: Pick food from @favorite_foods
+add_new_favorite_food: @favorite_foods << "chicken fingers"
+play_with_friends: Call local @friends["Friend Name"]
+add_new_friend: @friends["Tuck"] = "South Portland"
